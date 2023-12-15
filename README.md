@@ -1,1 +1,1 @@
-# FrequentistInferenceA
+Frequentist Inference Case Study
